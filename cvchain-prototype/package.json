@@ -1,0 +1,21 @@
+{
+  "name": "cvchain-prototype",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local educational simulation of credential commitment and 2-of-3 issuer governance",
+  "license": "MIT",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "coverage": "hardhat coverage",
+    "demo": "hardhat run scripts/demo.js",
+    "deploy:local": "hardhat run scripts/deploy-local.js",
+    "gas": "hardhat test test/gas.test.js"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.1.0",
+    "hardhat": "^2.22.18",
+    "solidity-coverage": "^0.8.14"
+  }
+}
