@@ -38,9 +38,9 @@ The test suite covers issuer authorization, registration, expiry, state preceden
 
 ## Links
 
-Demo video: <ADD LINK>
+Demo video: https://drive.google.com/file/d/1ykDrnmt9qLdZ-WPcVA29CAjtzhhK0iHI/view
 
-Repository: <ADD LINK>
+Repository: github.com/dias23nuly/CVChain
 
 ## Privacy and governance limitations
 
